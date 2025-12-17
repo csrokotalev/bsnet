@@ -1,2 +1,3 @@
 # bsnet
-bsnet Repositories
+
+repositories for bsnet os <beta>
