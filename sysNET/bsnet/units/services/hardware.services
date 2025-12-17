@@ -1,0 +1,10 @@
+[Unit]
+Description=Hardware Registration
+After=basic.target
+
+[Service]
+Tyoe=oneshot
+ExecStart=Hardware
+
+[Install]
+WantedBy=multi-user.target
